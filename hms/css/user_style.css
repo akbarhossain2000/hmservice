@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* css for user ledger */
+
+
+.wrapper{
+	border:1px solid #333;
+	border-radius:5px;
+	width:960px;
+	height:auto;
+	-moz-border-radius: 5px;
+-moz-box-shadow: 5px 5px 5px black;
+-webkit-box-shadow: 5px 5px 5px black;
+box-shadow: 5px 5px 5px black;	
+	
+}
+.header{height:170px; width:950px; background-color:#FFF; border-bottom:#03F 5px solid; margin-top:5px;}
+
+
+.hdiv1{float:left; height:150px; width:400px; padding:5px 0px 0px 5px; margin:10px 0px 0px 5px; border:1px solid #000;}
+.hdiv2{float:left; height:150px; width:350px; padding:5px 0px 0px 5px; margin:10px 0px 0px 5px; border:1px solid #000;}
+.hdiv3{float:left; height:160px; width:150px; margin:10px 0px 0px 10px; border:1px solid #000;}
+
+
+
+.body{height:auto; margin:0px; width:950px; background-color:#FFF; border:1px solid #000;}
+.bdiv1{height:auto; padding:5px 5px 5px 5px;}
+
+
+/*tanent profile*/
+.uheader{height:170px; width:950px; background-color:#FFF; border-bottom:#03F 5px solid; margin-top:5px;}
+.thdiv3{float:left; height:160px; width:150px; margin:5px 5px 5px 5px; border:1px solid #000;}
+.thdiv4{float:right; height:160px; width:150px; margin:5px 5px 5px 5px; border:1px solid #000;}
+.thdiv1{float:left; width:600px; padding:5px 0px 0px 5px; margin:5px 0px 5px 5px; border:1px solid #000;}
+.bdiv2{float:; height:auto; padding:5px 5px 5px 5px;}

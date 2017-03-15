@@ -1,0 +1,14 @@
+/* CSS Document */
+
+body,div,id,class,h1,h2,h3,h4,p1,p2,p3{ margin:0px; padding:0px;}
+
+.service_wrapper{height:auto;
+width:590px;
+margin:auto;
+border:#999999 solid 1px;
+background:#F1F1F1;
+}
+
+
+.creat_title{ height:25px; background:#315D86; color:#F1F1F1; font-family:Arial, Helvetica, sans-serif; font-size:16px; padding-top:5px;}
+.ifrm{height:700px;;}

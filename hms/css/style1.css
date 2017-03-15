@@ -1,0 +1,66 @@
+/* CSS Document */
+
+body,div,id,class,h1,h2,h3,h4,p1,p2,p3{ margin:0px; padding:0px;}
+
+body{ background:url(../images/grey_wash_wall_@2X.png) repeat fixed;}
+
+.wrapper{ background:#F1F1F1; height:600px; width:960px; margin:auto; margin-top:10px;
+-moz-border-radius: 5px;
+border-radius: 0px;
+-moz-box-shadow: 5px 5px 5px black;
+-webkit-box-shadow: 5px 5px 5px black;
+box-shadow: 5px 5px 5px black;}
+
+.header{background:#F1F1F1; height:100px; width:960px; border-bottom:#315D86 4px solid;}
+.whologing{ font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#315D86; float:left; width:440px; margin-top:40px; padding-left:40px;}
+.logout{ font-family:Arial, Helvetica, sans-serif; font-size:14px; float:right; width:440px; text-align:right; margin-top:40px; padding-right:20px; color:#315D86;}
+.logout a{ text-decoration:none; color:#315D86;}
+.content{ height:500px; width:960px;}
+
+.laft-nav{ float:left; height:460px; width:240px; border:#CCCCCC 1px solid; margin:20px; border-radius:5px; }
+
+.iner-laft-nav{float:left; height:450px; width:220px; background:#315D86; margin-left:10px; margin-bottom:5px; margin-top:5px;}
+.iner-laft-nav ul{margin:0;padding:0;list-style:none}
+.iner-laft-nav ul li{padding:5px;border-bottom:1px solid #ddd;}
+.iner-laft-nav ul li a{text-decoration:none;color:#F1F1F1; font-family:Arial, Helvetica, sans-serif; font-size:15px;}
+.iner-laft-nav ul li a:hover{color:#000; font-size:16px;}
+
+
+.right-nav{float:right; height:460px; width:655px; border:#CCCCCC 1px solid; margin-top:20px; margin-bottom:20px; margin-right:20px;border-radius:5px;}
+
+
+.copyright{ float:left; color:#F1F1F1; font-family:Arial, Helvetica, sans-serif; font-size:10px;}
+.designer{ float:right; color:#000; padding-right:5px; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold;}
+.ifrm{ margin-left:10px; margin-top:5px; margin-bottom:5px; margin-right:10px; height:435px; width:630px; border:none;}
+
+
+
+
+
+
+
+
+
+
+
+
+.login-warapp{ height:300px; width:400px; background:#F1F1F1; margin:auto; margin-top:150px;
+-moz-border-radius: 5px;
+border-radius: 0px;
+-moz-box-shadow: 5px 5px 5px black;
+-webkit-box-shadow: 5px 5px 5px black;
+box-shadow: 5px 5px 5px black; border-top:#315D86 10px solid;}
+
+.logo{}
+.logo img{ height:60px; width:350px; margin-left:15px; margin-top:5px;}
+
+.login-content{ margin-top:30px;}
+.username{ margin-bottom:10px; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; margin-left:40px;}
+.user{ margin-left:30px; border:#315D86 solid 1px; width:200px; height:20px;}
+.password{margin-bottom:10px; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#000000; margin-left:40px;}
+.pass{margin-left:40px; border:#315D86 solid 1px; width:200px; height:20px;}
+
+.boutton{ margin-left:286px;}
+.sumbit{ border:#000000 2px solid; background:#315D86; color:#F1F1F1; font-family:Arial, Helvetica, sans-serif; font-size:14px;}
+.forgot-pass{ margin-left:188px; font-family:Arial, Helvetica, sans-serif; color:#315D86; font-size:14px;}
+.footer{ margin-top:150px; margin-left:20px; margin-right:20px;}

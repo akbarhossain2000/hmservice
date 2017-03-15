@@ -1,0 +1,7 @@
+[05-Jun-2014 05:00:36] PHP Fatal error:  Call to undefined function  getfloor() in /home/akborbd/public_html/design/service_sql.php on line 15
+[05-Jun-2014 13:12:12] PHP Fatal error:  Call to undefined function  getfloor() in /home/akborbd/public_html/design/service_sql.php on line 15
+[05-Jun-2014 13:24:13] PHP Fatal error:  Call to undefined function  getfloor() in /home/akborbd/public_html/design/service_sql.php on line 15
+[05-Jun-2014 13:24:29] PHP Fatal error:  Call to undefined function  getfloor() in /home/akborbd/public_html/design/service_sql.php on line 15
+[05-Jun-2014 14:14:52] PHP Fatal error:  Call to undefined function  getfloor() in /home/akborbd/public_html/design/service_sql.php on line 15
+[06-Jun-2014 13:50:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/akborbd/public_html/design/header.php:3) in /home/akborbd/public_html/design/header.php on line 6
+[06-Jun-2014 13:58:31] PHP Fatal error:  Call to undefined function  getfloor() in /home/akborbd/public_html/design/service_sql.php on line 15

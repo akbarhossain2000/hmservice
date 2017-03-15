@@ -1,0 +1,38 @@
+*{margin:0px; padding:0px;}
+
+body{background:url(../images/grey_wash_wall_@2X.png);}
+.sadow{-moz-border-radius: 5px;
+border-radius: 0px;
+-moz-box-shadow: 5px 5px 5px black;
+-webkit-box-shadow: 5px 5px 5px black;
+box-shadow: 5px 5px 5px black;}
+a{text-decoration:none; color:#315D86;}
+a:hover{text-decoration:none; color:#315D86;}
+
+.body{width:960px; margin:0px auto; display:block}
+.hidden{overflow:hidden;}
+.float_left{float:left;}
+.float_right{float:right}
+
+.header_ariea{margin-top:10px; height:auto; }
+.header{background:#F1F1F1; border-bottom:#315D86 8px solid;}
+.logo{margin:25px 0px;}
+.logo img{height:80px; width:300px;}
+.logout{margin-top:45px;}
+.logout p{font-size:24px; color:#F1F1F1; margin-right:20px;}
+
+.content_ariea{}
+.content{background:#F1F1F1; padding-top:20px;}
+.outer_border{width:240px; border:#CCCCCC 1px solid; margin:0px 20px 0px 10px; border-radius:5px; padding:10px;}
+.mainmenu{width:240px; background:#315D86;}
+.mainmenu ul{margin:0px; padding:0px; list-style:none;}
+.mainmenu ul li{padding:5px; border-bottom:1px solid #ddd;}
+.mainmenu ul li a{ text-decoration:none; color:#F1F1F1; font-family:Arial, Helvetica, sans-serif; font-size:15px; display:block;}
+.mainmenu ul li a:hover{color:#000;}
+.continar{ margin-bottom:20px;}
+
+
+.copyright{ float:left; color:#F1F1F1; font-family:Arial, Helvetica, sans-serif; font-size:10px;}
+.designer{ float:right; color:#000; padding-right:5px; font-family:Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold;}
+
+.footer{ margin-top:150px; margin-left:20px; margin-right:20px;}

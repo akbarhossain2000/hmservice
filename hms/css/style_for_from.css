@@ -1,0 +1,35 @@
+/* CSS Document */
+
+body,div,id,class,h1,h2,h3,h4,p1,p2,p3{ margin:0px; padding:0px;}
+.ewrapper{
+	border:1px solid #333;
+	border-radius:5px;
+	width:630px;
+	height:auto;
+	-moz-border-radius: 5px;
+-moz-box-shadow: 5px 5px 5px black;
+-webkit-box-shadow: 5px 5px 5px black;
+box-shadow: 5px 5px 5px black;	
+	
+}
+.create_wrapper{ height:auto; width:625px; margin-top:10px; border:#999999 solid 1px; background:#F1F1F1;}
+.creat_title{ height:25px; background:#315D86; color:#F1F1F1; font-family:Arial, Helvetica, sans-serif; font-size:16px; padding-top:5px;}
+
+
+
+/*tanent_edit*/
+
+
+.tewrapper{
+	border:1px solid #333;
+	border-radius:5px;
+	margin-top:5px;
+	width:810px;
+	height:auto;
+	-moz-border-radius: 5px;
+-moz-box-shadow: 5px 5px 5px black;
+-webkit-box-shadow: 5px 5px 5px black;
+box-shadow: 5px 5px 5px black;	
+	
+}
+.tedit_wrapper{ height:auto; width:800px; margin-top:10px; border:#999999 solid 1px; background:#F1F1F1;}
